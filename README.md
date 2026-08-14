@@ -1,28 +1,19 @@
-# Hey — I'm Silas.
+# Hi, I'm Silas.
 
-Geoinformation student (M.Sc., BHT Berlin) with a background in urban planning.
-I build tools and pipelines for spatial data analysis, geodata processing, and machine learning on geographic datasets.
+M.Sc. Geoinformation student in Berlin with a background in urban planning.
+I work at the intersection of spatial data, analytics, and automation, turning domain questions into structured analyses, reproducible workflows, and decision-ready outputs.
 
-Currently working as Data Analytics Werkstudent at Interzero Plastics Sorting (Python, SQL).
+Currently finishing a master's thesis on urban heat and land-surface-temperature downscaling for Berlin, while working in data analytics for industrial operations.
 
 ## What I work with
 
-Python · SQL · GeoPandas · scikit-learn · PyTorch · Google Earth Engine · Docker · Git
+Python · SQL · Spatial Analysis · GeoPandas · Machine Learning · Automation · Git
 
-## Open Source
+## Selected projects
 
-- **[renamr](https://github.com/spignotti/renamr)** — AI-powered CLI for rule-based file renaming with PDF and vision analysis
-- **[litresearch](https://github.com/spignotti/litresearch)** — CLI for AI-powered academic literature research using Semantic Scholar and LLMs
+- **[Master Thesis: Urban Heat Islands](https://github.com/spignotti/berlin-lst-downscaling)** — Urban-context-aware land-surface-temperature downscaling for Berlin
+- **[Urban Tree Transfer](https://github.com/spignotti/urban-tree-transfer)** — Cross-city transfer learning for urban tree genus classification with multitemporal Sentinel-2 data
+- **[OpenCode Workflow Kit](https://github.com/spignotti/opencode-workflow-kit)** — Reusable AI-assisted workflows for structured project work, currently being published
+- **[urbanIQ](https://github.com/spignotti/urbanIQ)** — Natural-language geodata aggregation for Berlin district analysis
+- **[litresearch](https://github.com/spignotti/litresearch)** — Open-source CLI for automated literature research, structured reports, and BibTeX exports
 
-## Projects
-
-- **[academic-agent](https://github.com/spignotti/academic-agent)** — Agentic academic workflow with Zotero MCP server, PaperQA2 RAG, and Pandoc for literature management and writing
-- **[urban-tree-transfer](https://github.com/spignotti/urban-tree-transfer)** — Cross-city transfer learning for urban tree genus classification using multitemporal Sentinel-2 data (XGBoost, CNN-1D)
-- **[heatsense](https://github.com/spignotti/heatsense)** — Urban heat island analysis with Landsat, weather stations, and land use data
-- **[urbanIQ](https://github.com/spignotti/urbanIQ)** — NLP-driven geodata aggregation for Berlin district analysis
-- **[building-detector](https://github.com/spignotti/building-detector)** — Point-guided building detection from satellite imagery using SAM2
-- **[kitamap](https://github.com/spignotti/kitamap)** — GIS-based daycare supply analysis for Berlin with time series forecasting and spatial coverage metrics
-
-## Currently
-
-🌱 Finishing my master's thesis on urban heat islands (Sentinel-2, ML, cloud pipelines).

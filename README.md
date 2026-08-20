@@ -3,11 +3,11 @@
 M.Sc. Geoinformation student in Berlin with a background in urban planning.
 I work at the intersection of spatial data, analytics, and automation, turning domain questions into structured analyses, reproducible workflows, and decision-ready outputs.
 
-Currently finishing a master's thesis on urban heat and land-surface-temperature downscaling for Berlin, while working in data analytics for industrial operations.
+Currently finishing my master's thesis on urban heat island and land-surface-temperature downscaling for Berlin, while working in data analytics for industrial operations.
 
 ## What I work with
 
-Python · SQL · Spatial Analysis · GeoPandas · Machine Learning · Automation · Git
+Python · SQL · Spatial Analysis · Remote Sensing · Machine/Deep Learning · Automation
 
 ## Selected projects
 
